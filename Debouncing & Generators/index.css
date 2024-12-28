@@ -60,7 +60,7 @@ section {
 }
 
 .hero {
-    background-image: url('/cafe.jpg');
+    background-image: url('./cafe.jpg');
     min-height: 200px;
     background-size: cover;
 }
